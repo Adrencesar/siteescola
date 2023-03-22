@@ -2,11 +2,16 @@
 color: aqua;
 display: flex;
 justify-content: space-around;}
-.cabecalho-imagem{width: 37%;}
-li {
-    display: inline-block;
-}
+.cabecalho-imagem
+{width: 15%;}
+
 h1 {
     margin: 20px;
     padding: 80px 0;
-}
+    font-size: 40px;}
+    li {
+        display: inline-block;
+    margin: 0 16px;
+    padding:  24px 0;
+    font-size: 24px;}
+        
