@@ -53,3 +53,16 @@ h1 {
             padding: 50px 0;
             font-size: 60px;
         }
+        .estudante-todos{
+            display: grid;
+            grid-template-columns: 25% 25% 25% 25%;
+        }
+        footer{
+            background-color: black;
+            color: azure;
+        }
+        .estudante{
+            background-color: darkgreen;
+        }
+
+
